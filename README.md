@@ -85,8 +85,12 @@ Campos, R., Mangaravite, V., Pasquali, A., Jorge, A., Nunes, C., & Jatowt, A. (2
 
 ## 📂 File Structure
 
+--demo
 * `streamlit_app.py`: The main Streamlit application file
-* `requirements.txt`: Python package dependencies
+* `packages.txt`: Python package dependencies
+
+--pke
+* `yake.py`: pke package for yake
 
 ## 📃 License
 
