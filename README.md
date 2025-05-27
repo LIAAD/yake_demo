@@ -34,7 +34,7 @@ The application requires the following packages:
 - wordcloud
 - matplotlib
 - spacy
-- rematplotlib==3.3.1
+- rematplotlib
 
 You can install all dependencies using the requirements.txt file.
 
