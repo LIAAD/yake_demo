@@ -91,7 +91,3 @@ Campos, R., Mangaravite, V., Pasquali, A., Jorge, A., Nunes, C., & Jatowt, A. (2
 
 --pke
 * `yake.py`: pke package for yake
-
-## 📃 License
-
-MIT License.
